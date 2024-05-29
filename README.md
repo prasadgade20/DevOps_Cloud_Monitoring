@@ -13,6 +13,7 @@
 5. Learn Kubernetes and Create EKS cluster and Nodegroups
 6. Create Kubernetes Deployments and Services using Python!
 
+7. Learn How to Monitor Kubernetes Resources using Prometheus and Grafana
 
 ## **Prerequisites** !
 
