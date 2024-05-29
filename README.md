@@ -1,4 +1,4 @@
-# **Cloud Native Resource Monitoring Python App on K8s!**
+# **Cloud Monitoring Python App DevOps!**
 
 ## Things you will Learn 🤯
 
