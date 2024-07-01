@@ -1,32 +1,5 @@
 # **Cloud Monitoring Python App DevOps!**
 
-## Things you will Learn 🤯
-
-1. Python and How to create Monitoring Application in Python using Flask and psutil
-2. How to run a Python App locally.
-3. Learn Docker and How to containerize a Python application
-    1. Creating Dockerfile
-    2. Building DockerImage
-    3. Running Docker Container
-    4. Docker Commands
-4. Create ECR repository using Python Boto3 and pushing Docker Image to ECR
-5. Learn Kubernetes and Create EKS cluster and Nodegroups
-6. Create Kubernetes Deployments and Services using Python!
-
-7. Learn How to Monitor Kubernetes Resources using Prometheus and Grafana
-
-## **Prerequisites** !
-
-(Things to have before starting the projects)
-
-- [x]  AWS Account.
-- [x]  Programmatic access and AWS configured with CLI.
-- [x]  Python3 Installed.
-- [x]  Docker and Kubectl installed.
-- [x]  Code editor (Vscode)
-
-# ✨Let’s Start the Project ✨
-
 ## **Part 1: Deploying the Flask application locally**
 
 ### **Step 1: Clone the code**
@@ -219,3 +192,15 @@ Once your pod is up and running, run the port-forward to expose the service
 ```bash
 kubectl port-forward service/<service_name> 5000:5000
 ```
+
+![ecr](https://github.com/prasadgade20/DevOps_Cloud_Monitoring/assets/43978977/31ae8b17-39ff-455c-8377-c1a878e2ca8e)
+
+![eks active](https://github.com/prasadgade20/DevOps_Cloud_Monitoring/assets/43978977/0ceed010-589b-4ce4-b229-c94c5ad32425)
+
+![eks](https://github.com/prasadgade20/DevOps_Cloud_Monitoring/assets/43978977/aba689a0-6d17-4226-82dd-775eb2d3fa97)
+
+![nodes creation](https://github.com/prasadgade20/DevOps_Cloud_Monitoring/assets/43978977/e76f1c93-2c29-412f-8a51-99b61470f596)
+
+
+
+
